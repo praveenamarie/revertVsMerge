@@ -1,7 +1,11 @@
 # Static Numbers Example
 
 num1 = 10
+<<<<<<< HEAD
 num2 = 800
+=======
+num2 = 500
+>>>>>>> a10234479666ded591be5698b1f3c1988afefd0d
 
 sum_result = num1 + num2
 difference = num1 - num2
